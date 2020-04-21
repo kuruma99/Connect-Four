@@ -1,6 +1,9 @@
 # Connect-Four
 Connect-Four game in python using pygame
 
+## A Glimpse
+![Connect four](images/connect4.png)
+
 ## Play Connect Four
 To play the game run the terminal and run the following commands
 ```
